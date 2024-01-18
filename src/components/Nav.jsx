@@ -73,7 +73,7 @@ export default function Nav() {
               resume
             </a>
             <div className="md:hidden">
-              <ThemeToggle />
+              {/* <ThemeToggle /> */}
             </div>
           </div>
         </div>
@@ -143,7 +143,7 @@ export default function Nav() {
             </svg>
           </a>
           <div className="border-l dark:border-l-white/20 border-l-black/20 h-[20px] mx-1"></div>
-          <ThemeToggle />
+          {/* <ThemeToggle /> */}
 
           <button
             onClick={() => {

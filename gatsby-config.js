@@ -11,7 +11,7 @@ module.exports = {
     "gatsby-plugin-image",
     "gatsby-plugin-sitemap",
     "gatsby-plugin-postcss",
-    "gatsby-plugin-dark-mode",
+    // "gatsby-plugin-dark-mode",
     {
       resolve: "gatsby-plugin-manifest",
       options: {

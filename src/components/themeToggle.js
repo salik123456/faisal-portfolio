@@ -1,5 +1,5 @@
 import React from "react";
-import { ThemeToggler } from "gatsby-plugin-dark-mode";
+// 
 import Sun from "./Sun";
 import Moon from "./Moon";
 
