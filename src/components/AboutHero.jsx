@@ -25,7 +25,7 @@ export default function AboutHero({ webinars }) {
   return (
     <div className="container px-8 md:px-4  text-black dark:text-white mx-auto max-w-2xl pt-36 flex  flex-col items-center justify-center">
       <h1 className="text-transparent bg-gradient-to-r from-[#DC79FF] to-[#256BFA] bg-clip-text text-[32px] font-bold">About</h1>
-      <p className="md:w-[77%] mx-auto text-center text-[18px]">It is that easy like snapping to search for me on the internet, just type sarim.design. Scroll down to know more about me. </p>
+      <p className="md:w-[77%] mx-auto text-center text-[18px]">It is dd that easy like snapping to search for me on the internet, just type sarim.design. Scroll down to know more about me. </p>
 
       <EndingLine />
       <div className="relative  overflow-hidden p-4 rounded-2xl">
